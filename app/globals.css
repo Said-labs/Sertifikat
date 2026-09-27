@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-padding-top: env(safe-area-inset-top, 0px);
+}
+
+body {
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(14px) scale(0.98); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+.animate-rise {
+  animation: rise 0.5s ease forwards;
+  opacity: 0;
+}
