@@ -32,6 +32,19 @@ export const certificates = [
     location: "Bandung",
     publisher: "IBM Skills Build",
     desc: "Seminar ai IBM membahas Introduction to Large Language Models",
+  
   },
+    {
+    id: "s4",
+    title: "Webinar Public Speaking Master Your Voice Batch 274”",
+    category: "Webinar",
+    fileUrl: "https://drive.google.com/file/d/1ZMfzgCmPbHSItyNkn70Lv5UDJwhf1Q7S/view?usp=sharing",
+    date: "2026-09-26",
+    time: "21:00",
+    location: "Bandung",
+    publisher: "Motiva Center",
+    desc: "Webinar Public Speaking Master Your Voice Batch 274” ",
+  },
+  
   
 ];
