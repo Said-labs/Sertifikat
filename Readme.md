@@ -26,4 +26,5 @@ Edit langsung file `data/certificates.js` — tambah/ubah/hapus item di array.
 ## Catatan
 Pencarian hanya mencocokkan **judul** dan **lokasi**. Filter tanggal terpisah lewat
 tombol "Filter Tanggal" yang membuka kalender — klik tanggal untuk memfilter persis
-hari itu, ganti bulan/tahun lewat dropdown di atas kalender.
+hari itu, ganti bulan/tahun lewat dropdown di atas kalender.# Sertifikat
+# Sertifikat
